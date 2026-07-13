@@ -6,6 +6,16 @@ Welcome
 
 I'm Fran, an operational thinker, farm owner, and lifelong learner documenting my transition into AI.
 
+## Current Status
+
+🌱 Beginner
+
+I'm documenting this journey from Day One.
+
+I'm not pretending to know everything.
+
+I'm building, breaking, learning, and sharing what I discover.
+
 ## Why Prompt Farm Girl?
 
 I didn't set out to learn AI.
@@ -44,20 +54,20 @@ Maybe you can too.
 
 ## Current Projects
 
-- AI Board of Directors
-  A decision-making framework that uses specialized AI roles to help solve business and farm challenges.
+### AI Board of Directors
+A decision-making framework that uses specialized AI roles to help solve business and farm challenges.
   
-- Farm Operations Agents
-  AI assistants designed to improve daily farm operations and workflows.
+### Farm Operations Agents
+AI assistants designed to improve daily farm operations and workflows.
   
-- Greenhouse Assistant
-  Using AI to plan crops, planting schedules, harvests, seed saving, qr code field notes and sop's and production goals.
+### Greenhouse Assistant
+A knowledge system for greenhouse management and growing decisions.
   
-- Garden Planning System
-  A knowledge system for greenhouse management and growing decisions.
+### Garden Planning System
+Using AI to plan crops, planting schedules, harvests, seed saving, qr code field notes and sop's and production goals.
   
-- AI Knowledge Base
-  A growing collection of prompts, workflows, documentation, and lessons learned.
+### AI Knowledge Base
+A growing collection of prompts, workflows, documentation, and lessons learned.
 
 ## Follow the Journey
 
@@ -91,3 +101,20 @@ What I Learned
 - The importance of organizing files and writing a meaningful README documentation.
 - Every expert starts with a first commit.
 - Using lowercase, I'm not writing for punctuality. I'm organizing for cross platforms.
+
+## Monthly Progress
+
+### July 2026
+
+✅ Created GitHub
+
+✅ First repository
+
+✅ Learned Markdown
+
+✅ Created first README
+
+✅ Started learning Git
+
+Current Focus:
+Learning commits, pushes, branches, and documentation.
