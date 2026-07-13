@@ -50,3 +50,5 @@ This repository grows as I grow.
 Every project starts somewhere.
 
 This is mine.
+
+What I Learned
