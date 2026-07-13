@@ -57,14 +57,14 @@ Maybe you can too.
 ### AI Board of Directors
 A decision-making framework that uses specialized AI roles to help solve business and farm challenges.
   
-### Farm Operations Agents
+### Farm Operations Agent
 AI assistants designed to improve daily farm operations and workflows.
   
 ### Greenhouse Assistant
 A knowledge system for greenhouse management and growing decisions.
   
 ### Garden Planning System
-Using AI to plan crops, planting schedules, harvests, seed saving, qr code field notes and sop's and production goals.
+Using AI to plan crops, planting schedules, harvests, seed saving, QR Code field notes SOP's and production goals.
   
 ### AI Knowledge Base
 A growing collection of prompts, workflows, documentation, and lessons learned.
@@ -118,3 +118,13 @@ What I Learned
 
 Current Focus:
 Learning commits, pushes, branches, and documentation.
+
+## Repository Timeline
+
+2026
+- Started Prompt Farm Girl
+- Learned GitHub
+- Built first AI agents
+
+2027
+Future...
